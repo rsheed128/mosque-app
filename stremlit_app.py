@@ -1,4 +1,6 @@
-st.set_page_config(page_title="جامع التويجري", page_icon="🕌", layout="centered")
+from datetime import datetime
+import time
+import streamlit as stst.set_page_config(page_title="جامع التويجري", page_icon="🕌", layout="centered")
 
 # تصميم الألوان الفخمة عبر HTML و CSS مدمج
 st.markdown(
